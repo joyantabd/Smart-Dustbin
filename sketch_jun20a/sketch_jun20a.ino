@@ -1,6 +1,3 @@
-//Electronics is Fun
-//www.facebook.com/Electronics is Fun
-//www.yotube.com/Electronics is Fun
 #include <Servo.h>   //servo library
 Servo servo;     
 int trigPin = 2;    
